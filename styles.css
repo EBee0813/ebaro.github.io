@@ -1,0 +1,362 @@
+
+header {
+	font-family: serif;
+	font-size: 2.25em;
+	text-align: center;
+	padding-left: 2em;
+}
+
+.star1 {
+	width: 4vw;
+	height: auto;
+	padding-right: .36em;
+}
+
+.star2 {
+	width: 4vw;
+	height: auto;
+	padding-left: .36em;
+}
+
+.headings {
+	 display: flex;
+     align-items: center;
+      margin: 0em;
+     padding: 2px;
+
+}
+
+.headings h2 {
+    margin: 0em;
+    padding:0em;
+}
+
+#about-me {
+	margin-left: 10em;
+	text-decoration: underline;
+}
+
+#resume{
+	margin-left: 11.6em;
+	text-decoration: underline;
+}
+
+#hobbies{
+	margin-left: 12.4em;
+	text-decoration: underline;
+}
+
+.picture1 {
+	width: 25vw;
+	height: auto;
+	padding-left: 8em;
+	padding-top: 3em;
+
+}
+
+
+.picture2 {
+	width: 25vw;
+	height: auto;
+	padding-left: 2em;
+	padding-right: 1.25em;
+
+}
+
+.picture3 {
+	width: 25vw;
+	height: 30vw;
+	padding-right: 5em;
+	padding-left:1.25em;
+	padding-top: 3em;
+	
+}
+
+
+
+#footer {
+	text-align: center;
+}
+
+
+
+.headings2 {
+  list-style: none;
+  text-align: center;
+  padding-right: 2em;
+  padding-left: 4.75em;
+  margin: 0em;
+
+}
+
+.images{
+	align-items: center;
+}
+
+.bow {
+	filter: grayscale(100%);
+	width: 30vw;
+	height: auto;
+	align-items: center;
+	padding-left: 3em;
+}
+
+.left {
+	width: 20vw;
+	height: auto;
+	display: block;
+    margin: 22px auto;
+    max-width: 600px;
+    padding-left: 10em;
+    transform: rotate(-15deg);
+
+}
+
+.right {
+	width: 20vw;
+	height: auto;
+    margin: 22px auto;
+    max-width: 600px;
+    padding-left: 3em;
+    transform: rotate(15deg);
+}
+
+
+.wording {
+	text-align: center;
+	padding-top: 3em;
+	font-family: serif;
+	padding-left: 20em;
+	padding-right: 20em;
+	font-family: monospace;
+}
+
+.lists {
+	display: flex;
+}
+
+.music-heading {
+	padding-left: 3em;
+	text-decoration: underline;
+
+}
+.music1 {
+	padding-left: 18em;
+	padding-top: 3em;
+	font-family: monospace;
+	line-height: 1.5em;
+}
+
+.movies-heading {
+	padding-left: 3em;
+	text-decoration: underline;
+}
+
+.movies {
+	padding-left: 20em;
+	padding-top: 2.7em;
+	font-family: monospace;
+	line-height: 1.5em;
+}
+
+
+
+
+#footer2 {
+	text-align: center;
+}         
+
+
+.headings3 {
+  list-style: none;
+  text-align: center;
+  padding-right: 2em;
+  padding-left: 4.75em;
+  margin: 0em;
+}
+
+.top-image {
+	padding-left: 40.5em;
+	padding-top: 3em;
+	padding-bottom: 2em;
+	width: 10em;
+	height: auto;
+}
+
+#education-objective {
+text-align: center;
+font-family: monospace;
+text-decoration: underline;
+padding-left: 2em;
+color: #831f30;
+}
+
+.stony {
+	font-weight: bolder;
+}
+
+.pratt {
+	font-weight: bolder;
+}
+
+.objective-text {
+	text-align: center;
+	padding-left: 15em;
+	padding-right: 15em;
+	padding-bottom: 3em;
+	font-family: monospace;
+	line-height: 2em;
+	color: #831f30;
+	border-bottom: dashed;
+}
+
+#education {
+	padding-left: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	text-decoration: underline;
+	text-align: center;
+	font-family: monospace;
+	color: #831f30;
+}
+
+.schools {
+	list-style: inherit;
+	font-family: monospace;
+	padding-left: 45em;
+	line-height: 1.5em;
+	padding-bottom: 3em;
+	color: #831f30;
+	border-bottom: dashed;
+}
+
+#work {
+	padding-left: 2em;
+	padding-top: 2em;
+	font-family: monospace;
+	text-align: center;
+	text-decoration: underline;
+	color: #831f30;
+}
+
+#work-text {
+	font-family: monospace;
+	padding-left: 30em;
+	line-height: 4em;
+	padding-bottom: 3em;
+	color: #831f30;
+	border-bottom: dashed;
+
+}
+
+#skills {
+	padding-left: 2em;
+	padding-top: 2em;
+	text-align: center;
+	font-family: monospace;
+	text-decoration: underline;
+	color: #831f30;
+}
+
+.skills-text {
+	line-height: 2em;
+	padding-left: 32em;
+	font-family: monospace;
+	line-height: 4em;
+	color: #831f30;
+}
+
+#footer3 {
+	text-align: center;
+}
+
+
+.headings4 {
+  list-style: none;
+  text-align: center;
+  padding-right: 2em;
+  padding-left: 4.75em;
+  margin: 0em;
+}
+
+.hobbies-table {
+	border-style: none;
+    width: 70%;
+    max-width: 3000px;
+    line-height: 4em;
+    margin: auto; 
+    padding-left: 2em;
+    padding-top: 3em;
+    text-align: center;
+}
+
+
+
+.header-row th {
+    border: 2px;
+    width: 33.33%;
+    border-style: solid;
+    border-top-left-radius: 2em;
+    border-top-right-radius: 2em;
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+}
+
+
+
+.music {
+	width: 8em;
+	height: auto;
+	padding-top: 2em;
+	align-content: center;
+}
+
+.reading {
+	width: 8em;
+	height: auto;
+	padding-top: 2em;
+	align-content: center;
+}
+
+.cooking {
+	width: 8em;
+	height: auto;
+	padding-top: 2em;
+	align-content: center;
+}
+
+.friends {
+	width: 8em;
+	height: auto;
+	padding-top: 2em;
+	align-content: center;
+}
+
+.swimming {
+	width: 8em;
+	height: auto;
+	padding-top: 2em;
+	align-content: center;
+}
+
+.shopping {
+	width: 8em;
+	height: auto;
+	padding-top: 2em;
+	align-content: center;
+}
+
+.td {
+	border-style: none;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+
+
+
+#footer4 {
+	text-align: center;
+}
+
+
